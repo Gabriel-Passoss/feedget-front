@@ -15,7 +15,7 @@ The visual part of the feedback widget, where it can be placed on any website to
 **Front-end:** TypeScript, React, Axios, TailwindCSS, HTML2Canvas, HeadlessUI
 
 
-## Rodando localmente
+## Running locally
 
 Clone the project
 
