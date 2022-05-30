@@ -1,43 +1,41 @@
 
 # Feedget Front-end
 
-Este projeto é um widget de feedbacks que pode ser colocado em qualquer site.
+The visual part of the feedback widget, where it can be placed on any website to receive user feedback
 
+## Functionalities
 
-## Funcionalidades
+- BUG, ​​IDEA and OTHER feedback can be sent
+- Button that automatically takes a screenshot and sends it along with the feedback form
+- Beautiful and smooth animations
+- Loading screen while submitting form to backend
 
-- Pode ser enviado feedback de BUG, IDEIA e OUTRO
-- Botão que automaticamente tira uma screenshot e envia junto com o formulário do feedback
-- Animações bonitas e suaves
-- Tela de loading enquanto envia o formulário para o back-end
-
-
-## Stack utilizada
+## Used Stack
 
 **Front-end:** TypeScript, React, Axios, TailwindCSS, HTML2Canvas, HeadlessUI
 
 
 ## Rodando localmente
 
-Clone o projeto
+Clone the project
 
 ```bash
   git clone https://github.com/Gabriel-Passoss/feedget-front.git
 ```
 
-Entre no diretório do projeto
+Enter the project directory
 
 ```bash
   cd feedget-front
 ```
 
-Instale as dependências
+Install the dependencies
 
 ```bash
   npm install
 ```
 
-Inicie o servidor
+Launch the app
 
 ```bash
   npm run dev
